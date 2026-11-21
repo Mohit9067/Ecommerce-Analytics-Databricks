@@ -525,7 +525,7 @@ Ecommerce-Analytics-Databricks/
 │
 ├── README.md
 │
-└── [Dashboard Screenshots - to be added]
+└── [Dashboard Screenshots]
 ```
 
 ### Notebook Description
