@@ -659,20 +659,20 @@ e-commerce business performance across sales, customers, products, and delivery.
 
 ## Executive Overview
 
-![Executive Overview](dashboard/01_Executive_Overview.png)
+![Executive Overview](dashboard/01_Executive_Overview.png.png)
 
 ## Customer Analytics
 
-![Customer Analytics](dashboard/02_Customer_Analytics.png)
+![Customer Analytics](dashboard/02_Customer_Analytics.png.png)
 
 ## Sales Analytics
 
-![Sales Analytics](dashboard/03_Sales_Analytics.png)
+![Sales Analytics](dashboard/03_Sales_Analytics.png.png)
 
 ## Product Analytics
 
-![Product Analytics](dashboard/04_Product_Analytics.png)
+![Product Analytics](dashboard/04_Product_Analytics.png.png)
 
 ## Delivery Analytics
 
-![Delivery Analytics](dashboard/05_Delivery_Analytics.png)
+![Delivery Analytics](dashboard/05_Delivery_Analytics.png.png)
