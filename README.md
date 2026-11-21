@@ -651,3 +651,28 @@ Artificial Intelligence & Machine Learning
 *Transforming raw e-commerce data into actionable business intelligence.*
 
 </p>
+
+# 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive visualization layer for analyzing
+e-commerce business performance across sales, customers, products, and delivery.
+
+## Executive Overview
+
+![Executive Overview](dashboard/01_Executive_Overview.png)
+
+## Customer Analytics
+
+![Customer Analytics](dashboard/02_Customer_Analytics.png)
+
+## Sales Analytics
+
+![Sales Analytics](dashboard/03_Sales_Analytics.png)
+
+## Product Analytics
+
+![Product Analytics](dashboard/04_Product_Analytics.png)
+
+## Delivery Analytics
+
+![Delivery Analytics](dashboard/05_Delivery_Analytics.png)
