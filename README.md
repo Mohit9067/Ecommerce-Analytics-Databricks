@@ -624,7 +624,7 @@ All team members contributed to the development and understanding of the overall
 
 # 👨‍💻 15. Author
 
-**Mohit Sharma**
+**Mohit Sharma** — **Team Leader**
 
 B.Tech — Computer Science Engineering  
 Artificial Intelligence & Machine Learning
@@ -632,6 +632,18 @@ Artificial Intelligence & Machine Learning
 ### Project
 
 **E-Commerce Analytics using Databricks & Power BI**
+
+### Team Members & Responsibilities
+
+| Team Member | Role & Responsibilities |
+|---|---|
+| **Mohit (Team Leader)** | Gold analytics, business logic, Power BI dashboard & insights |
+| **Yash** | Data cleaning, Spark transformations & Silver layer |
+| **Hritesh** | Data analytics & business logic |
+| **Kshitiz** | Data extraction, Bronze layer & data pipeline |
+
+---
+
 
 ---
 
